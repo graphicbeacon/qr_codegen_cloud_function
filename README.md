@@ -1,6 +1,8 @@
-# Hello world example
+# Dart Cloud Functions Example | QR Code Generator
 
-This example handles HTTP GET requests by responding with 'Hello, World!'.
+This example handles HTTP GET requests by responding with a QR Code.
+
+Deployed example can be visited here: [qr-generator-kzvvvadynq-uc.a.run.app](https://qr-generator-kzvvvadynq-uc.a.run.app/?w=400&h=400&d=https://patreon.com/creativebracket)
 
 ```dart
 // lib/functions.dart
